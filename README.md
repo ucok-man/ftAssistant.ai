@@ -6,9 +6,8 @@ Deployemnt link: [FTAssistant.ai](https://ai-fitness-trainer-sigma.vercel.app).
 
 ## Feature
 
-- Profile Management
-- Personalized Workout Plan Generation (based on your profile data)
-- AI-Powered Workout Recommendations (powered by Gemini)
+- Video call conversation with assitant
+- AI-Powered Workout Recommendations
 
 ## Technology Used
 
